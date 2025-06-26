@@ -1,6 +1,6 @@
 # Credit-Card-Default-Fairness-Check
 # OVERVIEW
-This is a supervised machine learning project that uses the kaggle credit card dataset to compare fairness violations across several models. The goal is to monitor the model performance - fairness tradeoff.
+This is a supervised machine learning project that uses the kaggle credit card dataset to compare fairness violations across several models. The goal is to monitor the model performance - fairness tradeoff using age as the sensitive attribute.
 # DATASET
 The dataset is can be obtained from Kaggle and contains variables of different features taken into account during the loan approval process are used to predict if a loan application will be approved or rejected.
 # Feature Description
